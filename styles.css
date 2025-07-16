@@ -119,6 +119,7 @@ h2 {
   background-color: var(--color-primary);
   padding: 5px;
   margin: 5px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .fecha {
